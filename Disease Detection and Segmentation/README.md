@@ -1,6 +1,6 @@
 # Disease Detection and Segmentation Model
 
-This model is for disease detection and segmentation using YOLOv8, a state-of-the-art object detection and segmentation framework. It can identify and segment six classes of diseases from medical images.
+This model is for disease detection and segmentation using YOLOv8, a state-of-the-art object detection and segmentation framework
 
 ## How to use
 
