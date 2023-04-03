@@ -22,9 +22,4 @@ The images were resized to 224x224 pixels and augmented with random rotations, f
 
 ## Results
 
-The model achieved an accuracy of 95% on the test set, which consisted of 60 images (20 for each class). The confusion matrix and some sample predictions are shown below:
-
-![Confusion matrix](confusion_matrix.png)
-![Sample predictions](sample_predictions.png)
-
-.
+The model achieved an accuracy of 95% on the test set, which consisted of 60 images (20 for each class)
